@@ -1,8 +1,8 @@
 ## :computer: Dependencies
 > Node.js
-- `Windows`
+`Windows`
 - Step 1: Download the Node.js Installer
-    - Open your web browser and go to the official Node.js download page [Node.js].
+    - Open your web browser and go to the official Node.js download page.
 
     - You will see two versions available: the LTS (Long Term Support) version and the Current version. The LTS version is recommended for most users, as it is more stable. Click on the Windows Installer (.msi) file to download it.
 
@@ -53,5 +53,4 @@ npm install -g npm
 This command installs the latest version of npm globally on your system.
 
 <br>
-<!-- URLs -->
-[Node.js]: https://nodejs.org/en/download/package-manager "Node.js"
+
