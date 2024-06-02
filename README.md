@@ -1,6 +1,6 @@
 ## :computer: Dependencies
 > Node.js
-`Windows`
+- `Windows`
 - Step 1: Download the Node.js Installer
     - Open your web browser and go to the official Node.js download page.
 
@@ -53,4 +53,20 @@ npm install -g npm
 This command installs the latest version of npm globally on your system.
 
 <br>
+
+- `Mac`
+- Step 1: Go to the official Node.js download page: Node.js Downloads.
+
+- Step 2: Choose the macOS Installer:
+    - Download the macOS Installer (.pkg file) for either the LTS (Long Term Support) version or the Current version. The LTS version is recommended for most users.
+
+- Step 3: Run the Installer:
+    - Open the downloaded .pkg file and follow the prompts to install Node.js.
+
+- Step 4: Verify Installation:
+    - Open Terminal and check the versions of Node.js and npm:
+```sh
+node -v
+npm -v
+```
 
