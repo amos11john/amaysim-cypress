@@ -70,3 +70,38 @@ node -v
 npm -v
 ```
 
+<br>
+
+## :open_file_folder: Clonging Repo
+> Mac
+- Step 1: Open Terminal: You can open Terminal from your Applications folder or by searching for it in Spotlight.
+
+- Step 2: Navigate to the Directory Where You Want to Clone the Repository: Use the cd command to change the directory. For example, if you want to clone the repository to your Desktop, you can use:
+
+```sh
+cd ~/Desktop
+```
+
+- Step 3: Copy the Repository URL:
+
+- HTTPS: https://github.com/amos11john/amaysim-cypress.git
+- SSH: git@github.com:amos11john/amaysim-cypress.git
+- Step 4: Clone the Repository: Use the git clone command followed by the copied URL. For example:
+
+For HTTPS:
+
+```sh
+git clone https://github.com/username/repository.git
+```
+
+For SSH (if you have set up SSH keys):
+
+```sh
+git clone git@github.com:username/repository.git
+```
+
+- Step 5: Navigate into the Cloned Repository: After cloning, you need to navigate into the repository directory:
+
+```sh
+cd repository
+```
