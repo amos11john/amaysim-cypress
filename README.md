@@ -135,3 +135,11 @@ clone git@github.com:amos11john/amaysim-cypress.git
 ```sh
 cd repository
 ```
+
+- `After Cloning`
+    - Run `npm install`
+    - Restart TS server via **CTRL + Shift + P** in VS code (optional)
+    - Run `npm run cy:open:prod` to test successful cloning
+- ***.cy.ts** location - /e2e/\*
+- Main functions location - /e2e/functions/
+- Test data (.json) location - /fixture/\*
