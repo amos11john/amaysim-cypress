@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.amaysim.com.au/",
+  "env": {
+    "environment": "si",
+    "hostname": "www.amaysim.com.au"
+  }
+}

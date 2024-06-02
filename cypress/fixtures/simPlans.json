@@ -1,0 +1,30 @@
+{
+  "7Day": {
+    "name": "7 day SIM plans",
+    "header": "7 Day",
+    "simURL": "/sim-plans/7-day-sim-plans",
+    "plans": [
+      {
+        "name": "10GB",
+        "price": "$10",
+        "renewal": "7 day renewal",
+        "cartURL": "/mobile/cart/7-day-10gb",
+        "plan": "UNLIMITED 10GB",
+        "amountDay": "$10/7 days",
+        "planDetails": [
+          "Unlimited Data Banking",
+          "10GB data + unlimited standard talk and text",
+          "5G and 4G download speeds capped at 100Mbps",
+          "Unlimited standard international talk & text to 42 countries",
+          "Ongoing price is $10, renews every 7 days",
+          "Additional data: $10 for 1GB"
+        ],
+        "network": "Premium 5G/4G Network"
+      }
+    ]
+  },
+  "28Day": {},
+  "12Month": {},
+  "5GP": {},
+  "Data": {}
+}
