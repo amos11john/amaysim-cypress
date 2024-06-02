@@ -1,5 +1,6 @@
 ## :open_file_folder: Installation
 [![Cypress.io](https://img.shields.io/badge/v13.10.0%20-Cypress-04C38E.svg)](CypressIO)
+- `Steps`
     - Clone the main project
     - Run `npm install`
     - Restart TS server via **CTRL + Shift + P** in VS code (optional)
