@@ -91,17 +91,47 @@ cd ~/Desktop
 For HTTPS:
 
 ```sh
-git clone https://github.com/username/repository.git
+git clone https://github.com/amos11john/amaysim-cypress.git
 ```
 
 For SSH (if you have set up SSH keys):
 
 ```sh
-git clone git@github.com:username/repository.git
+git clone git@github.com:amos11john/amaysim-cypress.git
 ```
 
 - Step 5: Navigate into the Cloned Repository: After cloning, you need to navigate into the repository directory:
 
+```sh
+cd repository
+```
+
+> Windows
+- Step 1: Open Git Bash
+    - Open the Start menu, type Git Bash, and press Enter. Git Bash provides a Unix-like shell that can be used to interact with your Git repositories.
+- Step 2: Navigate to the Directory Where You Want to Clone the Repository
+    - Use the cd command to change the directory. For example, if you want to clone the repository to your Documents folder, you can use:
+```sh
+cd ~/Documents
+```
+- Step 3: Copy the Repository URL
+    -  Go to the GitHub repository page you want to clone.
+    - Click the Code button and copy the URL from the HTTPS or SSH tab. The URL will look something like this:
+        - HTTPS: https://github.com/amos11john/amaysim-cypress.git
+        - SSH: git@github.com:amos11john/amaysim-cypress.git
+- Step 4: Clone the Repository
+    - Use the git clone command followed by the copied URL. For example:
+    - For HTTPS
+```sh
+git clone https://github.com/amos11john/amaysim-cypress.git
+```
+- For SSH (if you have set up SSH keys):
+```sh
+clone git@github.com:amos11john/amaysim-cypress.git
+```
+
+- Step 5: Navigate into the Cloned Repository
+- After cloning, navigate into the repository directory:
 ```sh
 cd repository
 ```
