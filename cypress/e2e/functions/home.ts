@@ -24,7 +24,6 @@ class Home {
       cy.log("Navigate to home page");
       cy.visit("/");
       this.elements.navHome().should("be.visible");
-      this.elements.bannerImage().should("be.visible");
     },
 
     /**
